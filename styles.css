@@ -1,0 +1,52 @@
+.header{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px 0 100px;
+  border: 3px solid black;
+
+}
+.header_item{
+  margin: auto 16px;
+}
+.fa{
+  margin: 10px;
+  border-radius: 50%;
+  vertical-align: middle;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 2px;
+  width: 17px;
+  height:17px;
+}
+.Jason_pic{
+  margin: 30px 0 0 100px;
+}
+.images{
+  display: flex;
+}
+.images p {
+  margin: 100px ;
+}
+.images h2{
+  margin: 100px;
+
+}
+.box{
+  color: orangered;
+  margin-left: 100px;
+  display: flex;
+}
+.box span{
+  font-weight: bold;
+  font-size: 30px;
+
+}
+.box_item{
+  margin: 30px;
+}
+.box h3{
+  color: black;
+
+}
